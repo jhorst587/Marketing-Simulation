@@ -196,65 +196,11 @@ NIL
 NIL
 1
 
-PLOT
-15
-66
-215
-216
-Number of Telemarketers
-NIL
-NIL
-0.0
-10.0
-0.0
-10.0
-true
-false
-"" ""
-PENS
-"default" 1.0 0 -16777216 true "" ""
-
-PLOT
-17
-235
-217
-385
-Histogram of Telemarketer Size
-NIL
-NIL
-0.0
-10.0
-0.0
-10.0
-true
-false
-"" ""
-PENS
-"default" 1.0 0 -16777216 true "" ""
-
-PLOT
-230
-65
-430
-215
-Total Number of Sales
-NIL
-NIL
-0.0
-10.0
-0.0
-10.0
-true
-false
-"" ""
-PENS
-"default" 1.0 0 -16777216 true "" ""
-
 MONITOR
-255
-240
-338
-285
+16
+83
+99
+128
 NIL
 count turtles
 17
@@ -262,10 +208,10 @@ count turtles
 11
 
 MONITOR
-256
-304
-387
-349
+17
+147
+148
+192
 NIL
 mean [size] of turtles
 10

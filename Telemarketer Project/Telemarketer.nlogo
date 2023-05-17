@@ -176,60 +176,6 @@ NIL
 NIL
 1
 
-PLOT
-15
-66
-215
-216
-Number of Telemarketers
-NIL
-NIL
-0.0
-10.0
-0.0
-10.0
-true
-false
-"" ""
-PENS
-"default" 1.0 0 -16777216 true "" ""
-
-PLOT
-17
-235
-217
-385
-Histogram of Telemarketer Size
-NIL
-NIL
-0.0
-10.0
-0.0
-10.0
-true
-false
-"" ""
-PENS
-"default" 1.0 0 -16777216 true "" ""
-
-PLOT
-230
-65
-430
-215
-Total Number of Sales
-NIL
-NIL
-0.0
-10.0
-0.0
-10.0
-true
-false
-"" ""
-PENS
-"default" 1.0 0 -16777216 true "" ""
-
 @#$#@#$#@
 ## WHAT IS IT?
 
