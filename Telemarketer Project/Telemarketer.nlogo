@@ -54,7 +54,6 @@ to go
     do-accounting
   ]
 
-  update-output
 end ; go
 
 to do-sales-calls
@@ -108,12 +107,6 @@ to do-accounting
   ; if bank balance is negative, go out of business
   ; if bank balance is above growth-param, increase size
 end ; do-accounting
-
-to update-output
-  ; plot number of telemarketers in business
-  ; plot histogram of telemarketers size
-  ; plot total number of sales
-end ; update-output
 @#$#@#$#@
 GRAPHICS-WINDOW
 449
